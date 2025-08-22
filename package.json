@@ -1,0 +1,17 @@
+{
+  "name": "fiberbeam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node -e \"console.log('No tests specified')\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "multer": "*",
+    "mongodb": "*"
+  }
+}
